@@ -1,1 +1,2 @@
 haider first commit
+direct commit without staging
