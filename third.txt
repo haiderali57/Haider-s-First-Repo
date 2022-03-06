@@ -1,1 +1,0 @@
-manual deletion requires staging whereas git rm <filename> stages automatically
